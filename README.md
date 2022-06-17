@@ -10,12 +10,12 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Requirements
 To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
+1. Fork this project and then rename the title to your hobby.
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
+# Example.
 Thanks for visiting this repository!<br><br>
 
 I would like to know what your favorite spots in Nara.<br>
@@ -38,3 +38,4 @@ I'm looking forward to your effort!
 - ヤオヒコ
 - 郡山イオン
 - 学研北生駒駅
+- かしき屋 福茂千
