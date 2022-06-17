@@ -40,3 +40,4 @@ I'm looking forward to your effort!
 - 学研北生駒駅
 - かしき屋 福茂千
 - 登美ヶ丘イオン
+- ルイジアナママ
