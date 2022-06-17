@@ -37,3 +37,4 @@ I'm looking forward to your effort!
 # List of Hobby
 - ヤオヒコ
 - 郡山イオン
+- 登美ヶ丘イオン
